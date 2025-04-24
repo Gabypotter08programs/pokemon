@@ -1,0 +1,63 @@
+html {
+    /*background-color: #a2bb76;/*code couleur en exadécimal*/
+    width: 650px;/*taille de 650px*/
+  }
+  
+  #coul {
+    background: rgb(204, 204, 204);
+    width: 100px;
+    height: 100px;
+  } /* #coul est un identifient*/
+  
+  #page {
+    background: rgb(116, 145, 71);
+  }
+  
+  #invisible{
+    display: none;
+  }
+  
+  body {
+    padding:10px; /*marge de 10px*/
+    width: 600px; 
+  }
+  
+  h1 { 
+    font-size:40px;
+    color: #a04000; 
+  } 
+  
+  h4{
+    font-size: 20px;
+  }
+  
+  a:link{
+    color:rgb(15, 91, 91);
+  }
+  
+  a:hover {
+    color: red;
+  }
+  
+  a:visited{
+    color:purple;
+  }
+  
+  p { 
+    padding:10px;
+    color: #670202; 
+    font-size: 16px;
+    background: #c4c371;
+    width: 95%;
+    font-family:'Times New Roman', Times, serif;
+  }
+  
+  img {
+    display: block;
+    margin:auto;
+    width: 400px;
+  }
+  
+  #imgsent {
+    display: none;
+  }
